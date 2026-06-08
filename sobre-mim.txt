@@ -1,1 +1,2 @@
 Olá, este é o meu arquivo sobre mim.
+Nesta atividade, aprendi a configurar o SSH e usar branches.
