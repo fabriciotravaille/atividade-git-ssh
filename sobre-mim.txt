@@ -1,3 +1,4 @@
 Olá, este é o meu arquivo sobre mim.
 Nesta atividade, aprendi a configurar o SSH e usar branches.
 Está linha está sendo adicionada diretamento pelo GitHub em uma branch separada
+Esta alteracao foi feita na branch local.
